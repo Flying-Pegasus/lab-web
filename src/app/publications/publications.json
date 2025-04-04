@@ -1,0 +1,36 @@
+{
+    "publications": {
+      "2025": [
+        {
+          "id": 30,
+          "title": "Comprehensive analysis of neural network architectures for indentation plastometry",
+          "status": "In preparation",
+          "authors": ["Author One", "Author Two", "Iwnetim Abate"]
+        },
+        {
+          "id": 29,
+          "title": "Neural network-based residual stress quantification from spherical indentation data",
+          "status": "In preparation",
+          "authors": ["Author Three", "Iwnetim Abate"]
+        }
+      ],
+      "2024": [
+        {
+          "id": 20,
+          "title": "Copper lattice-embedded steel composite: One-step fabrication and its thermal properties",
+          "status": "Under review",
+          "journal": "Materials Science Journal",
+          "doi": "10.1234/example.doi"
+        }
+      ],
+      "2023": [
+        {
+          "id": 15,
+          "title": "Advanced machine learning techniques for materials characterization",
+          "journal": "Nature Materials",
+          "doi": "10.1038/s41563-023-01598-x",
+          "link": "https://doi.org/10.1038/s41563-023-01598-x"
+        }
+      ]
+    }
+  }
